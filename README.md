@@ -1,7 +1,7 @@
 ## HELLO, HOLA,Wie geht es dir?, greeting = "Hello World"  👋
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/grisreyesrios/grisreyesrios/blob/main/bigdata_ml_cloud.jpg">
 </p>
 
 ### I am a Data Scientist/Machine Learning Specialist who is currently working on designing and developing data and AI solutions for a consultancy company. I loved working on data-driven solutions and implemented them on the cloud, particularly GCP, and I am currently learning AWS.
