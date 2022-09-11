@@ -4,7 +4,7 @@
   <img src="https://github.com/grisreyesrios/grisreyesrios/blob/main/bigdata_ml_cloud.jpg">
 </p>
 
-### I am a Data Engineer/Machine Learning Specialist who is currently working on designing and developing data and AI solutions for a consultancy company. I loved working on data-driven solutions and implemented them on the cloud, particularly GCP, and I am currently learning AWS.
+### I am a Cloud Technical Solutions Engineer at Google, but I have worked as Data Engineer/Machine Learning Specialist for different industries such as steel, automotive, consultancy, marketing and tech. I loved working on data-driven solutions and implemented them on the cloud, particularly GCP, and also AWS.
 ### I had worked as well as Full Stack particularly with Ruby on Rails and intermediate level with Flask. On another side, I am an Android Enthusiast, and when I had the chance, I like to combine ML with Android with Kotlin.
 
 ![Grisell's GitHub stats](https://github-readme-stats.vercel.app/api?username=grisreyesrios&show_icons=true)
